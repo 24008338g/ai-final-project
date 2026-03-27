@@ -1,0 +1,6 @@
+Game Title: "Haunted Asylum: The Abandoned Ward"
+Protagonist: "Dr. Elara Valois, a renowned parapsychologist"
+Introduction: "You've received an urgent letter from your reclusive great-aunt,
+        requesting your presence at her isolated manor, Shadowbrook.
+        The mansion's history is marred by unspeakable events and tragic deaths. Your goal is to unravel the dark history behind the location while guiding the protagonist through nightmarish choices that will ultimately decide their fate."
+Background: "Part of the manor acted as a psychological ward for patients experiencing unique psychological effects related to personal trauma and identity."
