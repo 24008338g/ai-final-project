@@ -1,0 +1,90 @@
+{
+  "scenes": [
+    {
+      "type": "cinematic",
+      "id": "opening",
+      "description": "Dr. Elara Valois stands in the decaying central hall of Shadowbrook's abandoned asylum wing. The air is thick with dust and the scent of ozone. Flickering lights reveal The Everyman standing at the far end of the hall - their face a shifting, purple holographic void. Patient files and medical equipment float around them in a chaotic dance. 'Your data will complete the collection,' they whisper in a chorus of stolen voices. Elara must survive this confrontation and uncover the truth behind the asylum's experiments."
+    },
+    {
+      "type": "checkpoint",
+      "id": "checkpoint1",
+      "description": "The Everyman advances, their form shifting between the appearances of tortured patients. Medical instruments fly toward Elara as the floorboards splinter and crack. She must make a quick decision to avoid being overwhelmed.",
+      "choices": [
+        {
+          "text": "Duck into a treatment room to the right",
+          "outcome": "progress",
+          "cinematic": "progress1"
+        },
+        {
+          "text": "Try to push past them down the main hallway",
+          "outcome": "game_over",
+          "cinematic": "game_over1"
+        }
+      ]
+    },
+    {
+      "type": "cinematic",
+      "id": "game_over1",
+      "description": "As Elara attempts to rush past, The Everyman's form expands into a wall of shifting faces. Surgical tools materialize from their holographic mass and pin Elara against the wall. 'Your trauma data will be most valuable,' they whisper as instruments descend toward her."
+    },
+    {
+      "type": "cinematic",
+      "id": "progress1",
+      "description": "Elara slams the treatment room door shut just as a whirlwind of surgical steel crashes against it. The room contains archaic psychiatric equipment that hums with residual energy. Through the small window, she sees The Everyman calmly walking toward the door, their form now mirroring her own appearance with a cold, analytical expression."
+    },
+    {
+      "type": "checkpoint",
+      "id": "checkpoint2",
+      "description": "The door begins to buckle as The Everyman approaches. Elara notices two potential avenues of escape - a ventilation shaft behind a loose panel and a window leading to a fire escape. Both options carry risks in the unstable structure.",
+      "choices": [
+        {
+          "text": "Crawl into the ventilation system",
+          "outcome": "game_over",
+          "cinematic": "game_over2"
+        },
+        {
+          "text": "Break the window and climb onto the fire escape",
+          "outcome": "progress",
+          "cinematic": "progress2"
+        }
+      ]
+    },
+    {
+      "type": "cinematic",
+      "id": "game_over2",
+      "description": "The ventilation shaft narrows abruptly, trapping Elara. The Everyman's face appears in the darkness ahead, composed of shifting data patterns. 'All paths are known to me,' they whisper as the metal contracts around her, recording her final moments of panic."
+    },
+    {
+      "type": "cinematic",
+      "id": "progress2",
+      "description": "Elara smashes the window and scrambles onto the rusty fire escape. As she descends, she glimpses The Everyman watching calmly from the broken window, now wearing her great-aunt's appearance. They begin to descend through the building without moving, simply appearing on each floor as Elara struggles downward."
+    },
+    {
+      "type": "checkpoint",
+      "id": "checkpoint3",
+      "description": "Elara reaches the ground floor laboratory where the most severe experiments were conducted. The Everyman stands before the main generator, which powered the identity-erasure technology. They extend a hand that shifts between comforting and threatening. 'Join the collection. Your pain will have purpose.'",
+      "choices": [
+        {
+          "text": "Attempt to reason with them, offering to help complete their research",
+          "outcome": "game_over",
+          "cinematic": "game_over3"
+        },
+        {
+          "text": "Overload the generator to destroy the data collection",
+          "outcome": "progress",
+          "cinematic": "true_ending"
+        }
+      ]
+    },
+    {
+      "type": "cinematic",
+      "id": "game_over3",
+      "description": "As Elara approaches, The Everyman embraces her. Their form envelops her, and she feels her memories and identity being extracted and cataloged. The last thing she sees is her own face looking back at her with empty, data-collecting eyes before becoming just another face in their collection."
+    },
+    {
+      "type": "cinematic",
+      "id": "true_ending",
+      "description": "Elara makes a desperate lunge for the generator controls. As she overloads the system, The Everyman's form glitches violently - faces flashing and distorting. 'The data... corrupted...' they whisper as their holographic form destabilizes. The explosion of energy clears to reveal only drifting dust and silence. The collection has been erased, and the asylum's horrors finally laid to rest."
+    }
+  ]
+}
