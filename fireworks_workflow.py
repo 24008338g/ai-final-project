@@ -54,8 +54,15 @@ def interactive_confirm(step_name):
     return response.lower() != 's'
 
 async def generate_narrative(game_bg, char_def, app_req, narr_ex):
+    narrative_path = 'narratives/narrative.json'
     if not interactive_confirm("Generate Linear Narrative"):
+        if os.path.exists(narrative_path):
+            print("Using existing narrative.json.")
+            with open(narrative_path, 'r', encoding='utf-8') as f:
+                return json.load(f)
+        print("No existing narrative.json found; skipping narrative generation.")
         return None
+
     prompt = f"""
 Based on the following sources, generate a JSON structure for the narrative of "Haunted Asylum".
 
@@ -109,6 +116,10 @@ Include descriptions for all cinematics and checkpoints.
         return json.loads(narrative_json)
     except json.JSONDecodeError:
         print("Failed to parse narrative JSON. Saving raw response.")
+        if os.path.exists(narrative_path):
+            print("Loading existing narrative.json instead.")
+            with open(narrative_path, 'r', encoding='utf-8') as f:
+                return json.load(f)
         return None
 
 def extract_visual_requirements(narrative):
@@ -208,70 +219,6 @@ async def main():
     await generate_vue_code(narrative, visuals)
     assemble_project()
     print("Project implementation complete.")
-
-if __name__ == "__main__":
-    asyncio.run(main())
-
-def interactive_confirm(step_name):
-    response = input(f"Step: {step_name}. Press Enter to continue, or 's' to skip: ")
-    return response.lower() != 's'
-
-async def generate_narrative(game_bg, char_def, app_req, narr_ex):
-    if not interactive_confirm("Generate Linear Narrative"):
-        return None
-    prompt = f"""
-Based on the following sources, generate a JSON structure for the narrative of "Haunted Asylum".
-
-Game Background:
-{game_bg}
-
-Character Definitions:
-{char_def}
-
-Application Requirements:
-{app_req}
-
-Narrative Example:
-{narr_ex}
-
-The narrative should be a boss fight between Elara and The Faceless One, with 3 checkpoints, each with two choices: one leading to Game Over, one to progress.
-
-Structure the JSON as:
-{{
-  "scenes": [
-    {{
-      "type": "cinematic",
-      "id": "opening",
-      "description": "..."
-    }},
-    {{
-      "type": "checkpoint",
-      "id": "checkpoint1",
-      "description": "...",
-      "choices": [
-        {{"text": "Choice 1", "outcome": "game_over", "cinematic": "game_over1"}},
-        {{"text": "Choice 2", "outcome": "progress", "cinematic": "progress1"}}
-      ]
-    }},
-    // and so on for checkpoint2, checkpoint3, true_ending
-  ]
-}}
-
-Include descriptions for all cinematics and checkpoints.
-"""
-    messages = [{"role": "user", "content": prompt}]
-    narrative_json = await stream_llm_response("accounts/fireworks/models/deepseek-v3p1", messages, "narratives/narrative.json")
-    return json.loads(narrative_json)
-
-# Continue with other functions...
-
-async def main():
-    create_directories()
-    game_bg, char_def, app_req, narr_ex = load_base_data()
-    narrative = await generate_narrative(game_bg, char_def, app_req, narr_ex)
-    if narrative:
-        print("Narrative generated and saved.")
-    # Add more steps...
 
 if __name__ == "__main__":
     asyncio.run(main())
