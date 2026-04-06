@@ -20,7 +20,7 @@
         <p>The horrors of Shadowbrook have been laid to rest...</p>
       </div>
       
-      <button @click="returnToStart" class="return-btn">Play Again</button>
+      <button @click="returnToStart" class="return-btn">Return to Home</button>
     </div>
   </div>
 </template>

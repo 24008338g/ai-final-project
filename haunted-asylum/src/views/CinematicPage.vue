@@ -4,11 +4,12 @@
       <h2 class="scene-title">{{ currentScene.id }}</h2>
       
       <div class="media-container">
-        <img 
-          src="/placeholder_image.jpg" 
-          alt="Cinematic scene" 
-          class="scene-image"
-        >
+        <video 
+          src="/placeholder_video.mp4" 
+          controls 
+          autoplay
+          class="scene-video"
+        ></video>
       </div>
       
       <div class="description">
@@ -29,6 +30,13 @@
           class="continue-btn"
         >
           Proceed
+        </button>
+        <button 
+          v-else-if="currentScene.id === 'true_ending'" 
+          @click="$router.push('/')" 
+          class="continue-btn"
+        >
+          Return to Home
         </button>
       </div>
     </div>
@@ -95,9 +103,9 @@ export default {
   margin-bottom: 2rem;
 }
 
-.scene-image {
+.scene-video {
   width: 100%;
-  height: 300px;
+  height: 400px;
   object-fit: cover;
   border: 2px solid #5a1a1a;
 }

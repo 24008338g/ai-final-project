@@ -7,11 +7,6 @@
     
     <div class="intro-section">
       <p>Enter the decaying halls of Shadowbrook Asylum...</p>
-      <video 
-        src="/placeholder_video.mp4" 
-        controls 
-        class="trailer"
-      ></video>
     </div>
     
     <button @click="startGame" class="start-button">BEGIN YOUR NIGHTMARE</button>
@@ -74,14 +69,6 @@ export default {
   font-size: 1.2rem;
   margin-bottom: 1.5rem;
   color: #d0d0d0;
-}
-
-.trailer {
-  width: 100%;
-  max-width: 600px;
-  height: 300px;
-  border: 2px solid #5a1a1a;
-  box-shadow: 0 0 20px rgba(255, 0, 0, 0.3);
 }
 
 .start-button {
