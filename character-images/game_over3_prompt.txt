@@ -1,0 +1,19 @@
+Of course. Here is a detailed image prompt designed for AI image generation, capturing the specific cinematic and gothic horror elements of your scene.
+
+### Final Prompt:
+**A gothic horror cinematic scene, ultra-detailed, photorealistic. A woman, Elara, in a tattered 19th-century dress, is being absorbed into a towering, shifting entity known as The Everyman. Their form is a horrific tapestry of countless overlapping, anguished faces and grasping hands, woven from shadow and pale, waxen flesh. Elara is in the midst of a violent yet silent embrace; her body is half-submerged into its chest, her own form beginning to glitch and pixelate as her memories are extracted. The atmosphere is thick with ethereal, data-stream tendrils of cyan and silver light, symbolizing the cataloging process, contrasting with the oppressive darkness of a decaying, cathedral-like archive. The focal point: Elara's own face, now a duplicate and part of The Everyman, looks back at her with cold, hollow eyes that glow with a faint, synthetic blue light—empty, data-collecting lenses. Her real face captures the final moment of terror and realization, a single tear tracing her cheek. Dramatic chiaroscuro lighting, style of Guillermo del Toro and HR Giger, deep shadows, high contrast, volumetric light, intricate details, 8k, unreal engine render.**
+
+---
+
+### Breakdown of Key Elements (Why it works):
+
+*   **Subject & Action:** Clearly defines "Elara" and "The Everyman," specifying the key action ("absorbed," "embrace," "half-submerged").
+*   **Gothic Horror Style:** Words like "19th-century dress," "towering," "shifting entity," "tapestry of countless overlapping, anguished faces," "grasping hands," "waxen flesh," "decaying, cathedral-like archive," and "chiaroscuro" all directly evoke gothic horror.
+*   **The "Data" Element:** Crucial for the story. "Glitch and pixelate," "data-stream tendrils of cyan and silver light," "cataloging process," and "synthetic blue light" blend the supernatural horror with a technological one, creating a unique aesthetic.
+*   **The Critical Detail:** Explicitly states the climax: "*The focal point: Elara's own face... looks back at her with cold, hollow eyes that glow with a faint, synthetic blue light.*" This ensures the AI focuses on generating this terrifying mirror image.
+*   **Emotion:** Describes "terror and realization," and a "single tear" to guide the AI toward the intended emotional impact.
+*   **Lighting & Atmosphere:** "Dramatic chiaroscuro," "volumetric light," "oppressive darkness," and "ethereal... light" provide instructions for mood and depth.
+*   **Artistic References:** Naming "Guillermo del Toro" (for Gothic, monster-focused storytelling) and "HR Giger" (for biomechanical horror) gives the AI strong stylistic anchors.
+*   **Technical Quality:** Terms like "ultra-detailed, photorealistic," "intricate details," "8k," and "unreal engine render" push the AI towards a high-fidelity, cinematic output.
+
+This prompt is structured to give the AI a rich, layered description, maximizing the chance of generating an image that is both visually stunning and narratively precise.

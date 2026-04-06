@@ -1,0 +1,40 @@
+Of course. Here is a detailed, multi-layered image prompt designed for AI image generation to capture the specific cinematic and gothic horror tone of your scene.
+
+### **Final Master Prompt**
+
+**(Copy and paste this entire block for best results)**
+
+**Subject:** A terrified young woman, Elara, in a tattered dress, scrambling down a rusted, intricate iron fire escape at night. Directly behind her, inside the decaying tenement building, a sinister figure, The Everyman, now wearing the visage of her kindly great-aunt, stares out from a broken window. The figure is unnaturally still and begins to appear on the floor below without moving, its calm expression contrasting with Elara's panic.
+
+**Style:** Gothic horror, cinematic still, neo-noir. Moody, high-contrast chiaroscuro lighting. Style of Guillermo del Toro's *Crimson Peak*, combined with the graphic novel aesthetic of *From Hell* and the haunting paintings of Zdzisław Beksiński.
+
+**Composition:** Dynamic Dutch angle, looking down on Elara to emphasize her precarious descent and vulnerability. The fire escape forms leading lines that draw the eye down into the dark, misty alley below. The Everyman is framed in the center of the window, a focal point of stillness amidst the chaos.
+
+**Key Details:**
+*   **Elara:** Pale skin smudged with dirt and a small cut from the glass. Her eyes are wide with terror, reflecting the dim light. She wears a dark, Victorian-era mourning dress, now ripped and snagged on the rusty metal. One hand grips the cold rail, the other is outstretched for balance. Motion blur on her feet suggests frantic movement.
+*   **The Window:** A jagged, broken pane of glass, like a gaping mouth, with shards still clinging to the frame.
+*   **The Everyman:** It wears the exact face of Elara's great-aunt—a familiar, gentle face with soft wrinkles and a kind smile—but the eyes are completely wrong: pitch black, soulless, and knowing. It is perfectly still. It wears an antique lace collar and a dark, old-fashioned dress. It holds a single, lit candle that casts an unnatural, flickering upward light on its features, creating a ghastly shadow.
+*   **The Supernatural Effect:** On the floor directly below, through a second window, the exact same figure of The Everyman has already appeared, identical in posture and expression, watching her progress. This creates a terrifying, impossible repetition.
+*   **Setting:** A decaying brick tenement building in a rain-slicked, narrow alley. Thick, oily mist coils at the base of the building. The fire escape is ornate but dangerously corroded with flaking red-brown rust.
+
+**Lighting:** Dramatic and single-source. The primary light comes from The Everyman's candle, casting a weak, jaundiced glow on Elara's back and the immediate fire escape. The rest of the scene is lit by a cold, diffuse moonlight from above, creating long, distorted shadows. High contrast between deep blacks and stark highlights.
+
+**Color Palette:** Desaturated and monochromatic. Dominated by murky greens, sickly yellows (from the candle), gunmetal grey, and the dark crimson of rust. The only vivid color is a single droplet of blood on Elara's hand.
+
+**Mood:** Dread, paranoia, supernatural pursuit, inescapable fate, visceral fear.
+
+**Technical Parameters:**
+`hyperdetailed, photorealistic, intricate, 8k, volumetric lighting, cinematic lighting, sharp focus, wide-angle lens --ar 16:9 --style raw --no happy, cheerful, bright, cartoon, anime, symmetrical, clean`
+
+---
+
+### **Why This Prompt Works:**
+
+*   **Layering:** It starts with the core subject, then builds out style, composition, key details, lighting, and mood. This gives the AI a clear hierarchy of information.
+*   **Specific Visual References:** Naming directors (Guillermo del Toro) and artists (Beksiński) provides a strong stylistic anchor for the AI to pull from.
+*   **Contrast:** The prompt emphasizes the crucial contrast between Elara's frantic motion and The Everyman's terrifying stillness, which is the heart of the scene's horror.
+*   **Sensory Details:** It includes textures (rust, lace, broken glass), temperatures (cold rail), and lighting qualities (jaundiced, oily mist) to make the scene more immersive.
+*   **Negative Prompts (`--no`):** This instructs the AI on what to avoid, preventing a generic or tonally incorrect image.
+*   **Aspect Ratio (`--ar 16:9`):** This sets a cinematic widescreen format, perfect for the described scene.
+
+This prompt should generate a powerfully eerie and visually stunning image that captures the precise moment of supernatural horror you described.

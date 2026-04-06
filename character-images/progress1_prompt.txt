@@ -1,0 +1,17 @@
+Of course. Here is a detailed image prompt designed for AI image generation, capturing the cinematic and gothic horror elements of your scene.
+
+**Prompt:**
+**Masterpiece, best quality, cinematic still, gothic horror.** The scene is a claustrophobic Victorian-era psychiatric treatment room. A woman, **Elara**, with wild, desperate eyes and a determined expression, has just slammed a heavy, riveted iron door shut. The moment of impact: a chaotic whirlwind of surgical steel tools—saws, scalpels, forceps—is frozen mid-air as they crash against the door's exterior, their sharp points digging into the metal.
+
+Inside the room, the atmosphere is thick with dread. **Archaic psychiatric equipment** litters the space: a sinister electroconvulsive therapy machine with cracked glass dials and frayed wires, a restraining chair with thick leather straps, and a metal cabinet filled with ominous glass bottles. A low, visible **hum of residual energy**, depicted as ethereal, sickly green and violet electrical arcs, crackles around the machines, casting pulsating shadows on the grimy, tiled walls.
+
+The focus is on the door's small, reinforced window, made of thick, wire-meshed glass. Through it, we see **The Everyman**. Their form is a perfect, unnerving mirror of Elara's own appearance—same face, same hair, same clothes—but their expression is completely alien: cold, emotionless, and hyper-analytical, with piercing, intelligent eyes. They are walking calmly towards the door, their hand beginning to reach for the handle. The lighting is dramatic **chiaroscuro**, with a single, harsh light source from the corridor behind The Everyman, creating a long, menacing shadow that stretches into the room and framing their silhouette with a terrifying halo. The style is hyper-detailed, photorealistic, with influences from **Francis Bacon** and **Guillermo del Toro's** gothic aesthetic. The color palette is desaturated: gunmetal grey, deep mahogany, antiseptic green, and bruised violet, with the only vivid color being the unnatural energy glow.
+
+**Technical Specifications:**
+**--ar 16:9** (cinematic widescreen)
+**--style raw** (for a more photographic, less "AI" look)
+**--no** happy, bright, cartoon, smile, modern, clean
+**--v 6.0** (or latest model)
+
+**Alternate, more concise version for some engines:**
+`cinematic still, gothic horror, Elara slamming a heavy iron door shut as a whirlwind of surgical steel scalpels and saws crashes against it. Inside a Victorian psychiatric room with archaic equipment humming with green residual energy. Through the small window, The Everyman, a perfect doppelgänger with a cold analytical expression, walks calmly towards the door. Chiaroscuro lighting, dark palette, hyperrealistic, detailed, eerie, tense atmosphere, style of Guillermo del Toro and Francis Bacon. --ar 16:9 --style raw`

@@ -1,0 +1,192 @@
+--- opening ---
+Of course. Here is a detailed image prompt designed for AI image generation, capturing the gothic horror and cinematic tension of the scene.
+
+**Prompt:**
+**Subject:** A full-body cinematic shot of Dr. Elara Valois, a determined woman in her 40s with intelligent eyes and disheveled hair, standing in a defensive posture. She wears a practical, slightly dirty lab coat over civilian clothing. Her expression is a mix of terror and fierce resolve. Directly opposite her, at the far end of the vast, decaying hall, stands the antagonist, The Everyman. Their body is humanoid but semi-translucent, and their face is a mesmerizing, terrifying shifting vortex of purple and magenta holographic static, a void without features. Around The Everyman, patient files, shattered glass, syringes, and antique medical equipment (a stethoscope, a bone saw) float in a chaotic, orbiting dance, defying gravity.
+
+**Setting:** The central hall of an abandoned asylum, gothic horror style. The architecture is early 20th century, with high, vaulted ceilings adorned with crumbling plasterwork and exposed, rusty rebar. Peeling, faded murals are visible on the walls. The floor is cracked marble tiles, covered in debris, dust, and scattered papers. A few wrought-iron patient beds are overturned and rusted. The air is thick with swirling dust motes and a faint, eerie purple luminescence.
+
+**Lighting & Atmosphere:** Dramatic and oppressive cinematic lighting. The primary light source is a series of flickering, broken fluorescent lights hanging from chains, casting erratic, stark shadows that jump and dance. This is mixed with a cold, unnatural purple glow emanating from The Everyman's face, which illuminates the floating debris and casts long, distorted shadows. The atmosphere is thick with dust and the palpable scent of decay (visualized as dense, volumetric light rays cutting through the gloom). A faint, ethereal mist clings to the floor.
+
+**Style & Details:** Hyper-detailed, photorealistic, 8k resolution. Style of Guillermo del Toro's *Pan's Labyrinth* and the graphical fidelity of a modern AAA horror game like *The Dark Pictures Anthology*. The image should feel like a still from a gothic horror film. Key details: the texture of Elara's dirty lab coat, the cracked leather of a floating patient file, the glint of light on a floating hypodermic needle, the intricate decay of the architectural details, the mesmerizing, non-repeating pattern of the holographic void face.
+
+**Color Palette:** Desaturated and muted tones dominate - mossy greens, dirty browns, concrete grey, and ash. This is starkly contrasted by the vivid, unnatural electric purple and magenta of The Everyman's holographic face and energy. The flickering lights provide stark white and yellow highlights.
+
+**Composition & Angle:** Low-angle shot from behind Dr. Valois, making her seem vulnerable against the immense scale of the hall while also emphasizing the looming threat of The Everyman in the distance. The composition uses leading lines of the architecture to draw the eye directly to the antagonist. The floating debris creates a dynamic frame within the frame.
+
+**Keywords for AI:**
+cinematic, gothic horror, abandoned asylum, decay, hyper-detailed, photorealistic, 8k, volumetric lighting, flickering lights, eerie, ominous, dust motes, low angle shot, holographic entity, psychic energy, floating objects, terrified but determined woman, purple and magenta glow, contrast, Guillermo del Toro style, dark fantasy, horror, masterpiece, ultra-detailed, intricate textures.
+
+--- game_over1 ---
+Of course. Here is a detailed image prompt designed for AI image generation, capturing the gothic horror and cinematic intensity of the scene.
+
+**Prompt:**
+
+A hyper-detailed, cinematic still, gothic horror scene. A terrified young woman, **Elara**, is pinned against a grim, weathered stone wall by grotesque, phantasmal surgical instruments. Her face is a mask of pure terror, eyes wide, mouth open in a silent scream. The source of her terror is **The Everyman**, a towering, shifting wall of translucent, holographic faces that expands to fill the corridor. The faces are a mosaic of anguish, blank stares, and whispered secrets, all merging into a single terrifying entity.
+
+From its form, ethereal, cruel surgical tools materialize: scalpels, bone saws, and syringes made of solidified light and shadow. They hold Elara firmly against the cold stone, their edges glowing with a sickly green luminescence. The atmosphere is thick with dread. Dramatic, low-angle shot, emphasizing The Everyman's overwhelming power and Elara's vulnerability. The lighting is stark chiaroscuro, with a single, cold light source from above casting deep, long shadows across the scene, highlighting the texture of the stone and the ethereal glow of the entity. The color palette is desaturated: cold grays, mossy greens, and the faint, ghostly blue of the holographic mass, with only the warm tone of Elara's skin and a hint of crimson on a scalpel tip providing contrast. Style of Guillermo del Toro and Francisco Goya. 8k resolution, photorealistic, ultra-detailed, volumetric lighting, eerie mist.
+
+**Key Keywords for the AI:**
+cinematic still, gothic horror, terrified woman, pinned against a wall, grotesque surgical instruments, shifting wall of faces, holographic entity, phantasmal, ethereal tools, sickly green luminescence, dramatic low-angle shot, chiaroscuro, volumetric lighting, desaturated color palette, stone texture, Guillermo del Toro, Francisco Goya, hyper-detailed, photorealistic, 8k
+
+--- progress1 ---
+Of course. Here is a detailed image prompt designed for AI image generation, capturing the cinematic and gothic horror elements of your scene.
+
+**Prompt:**
+**Masterpiece, best quality, cinematic still, gothic horror.** The scene is a claustrophobic Victorian-era psychiatric treatment room. A woman, **Elara**, with wild, desperate eyes and a determined expression, has just slammed a heavy, riveted iron door shut. The moment of impact: a chaotic whirlwind of surgical steel tools—saws, scalpels, forceps—is frozen mid-air as they crash against the door's exterior, their sharp points digging into the metal.
+
+Inside the room, the atmosphere is thick with dread. **Archaic psychiatric equipment** litters the space: a sinister electroconvulsive therapy machine with cracked glass dials and frayed wires, a restraining chair with thick leather straps, and a metal cabinet filled with ominous glass bottles. A low, visible **hum of residual energy**, depicted as ethereal, sickly green and violet electrical arcs, crackles around the machines, casting pulsating shadows on the grimy, tiled walls.
+
+The focus is on the door's small, reinforced window, made of thick, wire-meshed glass. Through it, we see **The Everyman**. Their form is a perfect, unnerving mirror of Elara's own appearance—same face, same hair, same clothes—but their expression is completely alien: cold, emotionless, and hyper-analytical, with piercing, intelligent eyes. They are walking calmly towards the door, their hand beginning to reach for the handle. The lighting is dramatic **chiaroscuro**, with a single, harsh light source from the corridor behind The Everyman, creating a long, menacing shadow that stretches into the room and framing their silhouette with a terrifying halo. The style is hyper-detailed, photorealistic, with influences from **Francis Bacon** and **Guillermo del Toro's** gothic aesthetic. The color palette is desaturated: gunmetal grey, deep mahogany, antiseptic green, and bruised violet, with the only vivid color being the unnatural energy glow.
+
+**Technical Specifications:**
+**--ar 16:9** (cinematic widescreen)
+**--style raw** (for a more photographic, less "AI" look)
+**--no** happy, bright, cartoon, smile, modern, clean
+**--v 6.0** (or latest model)
+
+**Alternate, more concise version for some engines:**
+`cinematic still, gothic horror, Elara slamming a heavy iron door shut as a whirlwind of surgical steel scalpels and saws crashes against it. Inside a Victorian psychiatric room with archaic equipment humming with green residual energy. Through the small window, The Everyman, a perfect doppelgänger with a cold analytical expression, walks calmly towards the door. Chiaroscuro lighting, dark palette, hyperrealistic, detailed, eerie, tense atmosphere, style of Guillermo del Toro and Francis Bacon. --ar 16:9 --style raw`
+
+--- game_over2 ---
+Of course. Here is a detailed, multi-part image prompt designed for AI image generation, capturing the specific gothic horror and cinematic elements of your scene.
+
+### **Final, Consolidated Prompt (Copy and Paste Version):**
+
+**Prompt:**
+`cinematic still, gothic horror, a woman (Elara) trapped in a narrow, claustrophobic industrial ventilation shaft, the cold brushed metal walls are contracting and crushing her. In the darkness ahead, a terrifying face (The Everyman) materializes from glitching, shifting data patterns and holographic static, its expression is serene and omniscient. The face is illuminated by an eerie, sickly green and cyan bioluminescent glow that casts dramatic shadows. Extreme close-up, Dutch angle, intense claustrophobic composition. Hyper-detailed, intricate gothic machinery, rivets, pipes. Style of Guillermo del Toro, HR Giger, and Dante's Inferno (2007). Chiaroscuro lighting, volumetric fog, film grain, hyper-realistic, 8k. --ar 2:3 --style raw --v 6.0`
+
+---
+
+### **Detailed Breakdown (Why It Works):**
+
+This prompt is structured to give the AI the strongest possible instructions, moving from the core subject to style and technical details.
+
+**1. Subject & Action:**
+*   **"cinematic still, gothic horror"**: Immediately sets the genre and format.
+*   **"a woman (Elara) trapped in a narrow, claustrophobic industrial ventilation shaft"**: Clearly defines the main subject and her predicament. "Claustrophobic" is a powerful keyword for mood.
+*   **"the cold brushed metal walls are contracting and crushing her"**: Describes the critical action and the environment's texture.
+*   **"In the darkness ahead, a terrifying face (The Everyman) materializes from glitching, shifting data patterns and holographic static"**: A precise description of the antagonist, combining organic terror ("face") with technological horror ("glitching data," "static").
+*   **"its expression is serene and omniscient"**: Captures the chilling whisper from your scene—calm yet all-knowing.
+
+**2. Lighting & Color:**
+*   **"illuminated by an eerie, sickly green and cyan bioluminescent glow"**: Establishes the primary color palette common in tech-horror and gothic scenes (think old monitors, necrotic energy).
+*   **"casts dramatic shadows"**: Reinforces the horror tone and adds depth.
+*   **"Chiaroscuro lighting"**: A technical term for strong contrast between light and dark, essential for a dramatic, classic horror look.
+*   **"volumetric fog"**: Adds atmosphere and makes the light beams visible, enhancing the cinematic feel.
+
+**3. Composition & Shot Details:**
+*   **"Extreme close-up, Dutch angle"**: The close-up emphasizes Elara's panic and the invading face. The Dutch angle (tilted camera) creates immediate unease and disorientation.
+*   **"intense claustrophobic composition"**: Reinforces the feeling of being trapped. The AI will likely frame the shot tightly with walls pressing in from all sides.
+
+**4. Style & Details:**
+*   **"Hyper-detailed, intricate gothic machinery, rivets, pipes"**: Directs the AI towards the "Gothic" part of "Gothic Horror," specifying the look of the ventilation shaft.
+*   **"Style of Guillermo del Toro, HR Giger, and Dante's Inferno (2007)"**: Provides strong stylistic references:
+    *   **Guillermo del Toro**: For the gothic, fantastical, and human horror (e.g., *Pan's Labyrinth*).
+    *   **H.R. Giger**: For the biomechanical, industrial, and deeply unsettling aesthetic (*Alien*).
+    *   **Dante's Inferno (2007 game)**: For its specific depiction of hellish, gritty, and oppressive environments.
+*   **"film grain, hyper-realistic, 8k"**: Adds a cinematic texture and requests the highest detail level.
+
+**5. Negative Prompt (Recommended to Use):**
+To prevent the AI from generating unwanted elements, you can use:
+
+`Negative Prompt: bright colors, cartoon, anime, photorealistic, clean, well-lit, cheerful, happy, simple background, wide shot, blurry, soft focus, abstract, painting, drawing.`
+
+This combination will steer the AI away from a clean, bright, or optimistic interpretation, forcing it to focus on the dark, gritty, and horrific tone you desire.
+
+--- progress2 ---
+Of course. Here is a detailed, multi-layered image prompt designed for AI image generation to capture the specific cinematic and gothic horror tone of your scene.
+
+### **Final Master Prompt**
+
+**(Copy and paste this entire block for best results)**
+
+**Subject:** A terrified young woman, Elara, in a tattered dress, scrambling down a rusted, intricate iron fire escape at night. Directly behind her, inside the decaying tenement building, a sinister figure, The Everyman, now wearing the visage of her kindly great-aunt, stares out from a broken window. The figure is unnaturally still and begins to appear on the floor below without moving, its calm expression contrasting with Elara's panic.
+
+**Style:** Gothic horror, cinematic still, neo-noir. Moody, high-contrast chiaroscuro lighting. Style of Guillermo del Toro's *Crimson Peak*, combined with the graphic novel aesthetic of *From Hell* and the haunting paintings of Zdzisław Beksiński.
+
+**Composition:** Dynamic Dutch angle, looking down on Elara to emphasize her precarious descent and vulnerability. The fire escape forms leading lines that draw the eye down into the dark, misty alley below. The Everyman is framed in the center of the window, a focal point of stillness amidst the chaos.
+
+**Key Details:**
+*   **Elara:** Pale skin smudged with dirt and a small cut from the glass. Her eyes are wide with terror, reflecting the dim light. She wears a dark, Victorian-era mourning dress, now ripped and snagged on the rusty metal. One hand grips the cold rail, the other is outstretched for balance. Motion blur on her feet suggests frantic movement.
+*   **The Window:** A jagged, broken pane of glass, like a gaping mouth, with shards still clinging to the frame.
+*   **The Everyman:** It wears the exact face of Elara's great-aunt—a familiar, gentle face with soft wrinkles and a kind smile—but the eyes are completely wrong: pitch black, soulless, and knowing. It is perfectly still. It wears an antique lace collar and a dark, old-fashioned dress. It holds a single, lit candle that casts an unnatural, flickering upward light on its features, creating a ghastly shadow.
+*   **The Supernatural Effect:** On the floor directly below, through a second window, the exact same figure of The Everyman has already appeared, identical in posture and expression, watching her progress. This creates a terrifying, impossible repetition.
+*   **Setting:** A decaying brick tenement building in a rain-slicked, narrow alley. Thick, oily mist coils at the base of the building. The fire escape is ornate but dangerously corroded with flaking red-brown rust.
+
+**Lighting:** Dramatic and single-source. The primary light comes from The Everyman's candle, casting a weak, jaundiced glow on Elara's back and the immediate fire escape. The rest of the scene is lit by a cold, diffuse moonlight from above, creating long, distorted shadows. High contrast between deep blacks and stark highlights.
+
+**Color Palette:** Desaturated and monochromatic. Dominated by murky greens, sickly yellows (from the candle), gunmetal grey, and the dark crimson of rust. The only vivid color is a single droplet of blood on Elara's hand.
+
+**Mood:** Dread, paranoia, supernatural pursuit, inescapable fate, visceral fear.
+
+**Technical Parameters:**
+`hyperdetailed, photorealistic, intricate, 8k, volumetric lighting, cinematic lighting, sharp focus, wide-angle lens --ar 16:9 --style raw --no happy, cheerful, bright, cartoon, anime, symmetrical, clean`
+
+---
+
+### **Why This Prompt Works:**
+
+*   **Layering:** It starts with the core subject, then builds out style, composition, key details, lighting, and mood. This gives the AI a clear hierarchy of information.
+*   **Specific Visual References:** Naming directors (Guillermo del Toro) and artists (Beksiński) provides a strong stylistic anchor for the AI to pull from.
+*   **Contrast:** The prompt emphasizes the crucial contrast between Elara's frantic motion and The Everyman's terrifying stillness, which is the heart of the scene's horror.
+*   **Sensory Details:** It includes textures (rust, lace, broken glass), temperatures (cold rail), and lighting qualities (jaundiced, oily mist) to make the scene more immersive.
+*   **Negative Prompts (`--no`):** This instructs the AI on what to avoid, preventing a generic or tonally incorrect image.
+*   **Aspect Ratio (`--ar 16:9`):** This sets a cinematic widescreen format, perfect for the described scene.
+
+This prompt should generate a powerfully eerie and visually stunning image that captures the precise moment of supernatural horror you described.
+
+--- game_over3 ---
+Of course. Here is a detailed image prompt designed for AI image generation, capturing the specific cinematic and gothic horror elements of your scene.
+
+### Final Prompt:
+**A gothic horror cinematic scene, ultra-detailed, photorealistic. A woman, Elara, in a tattered 19th-century dress, is being absorbed into a towering, shifting entity known as The Everyman. Their form is a horrific tapestry of countless overlapping, anguished faces and grasping hands, woven from shadow and pale, waxen flesh. Elara is in the midst of a violent yet silent embrace; her body is half-submerged into its chest, her own form beginning to glitch and pixelate as her memories are extracted. The atmosphere is thick with ethereal, data-stream tendrils of cyan and silver light, symbolizing the cataloging process, contrasting with the oppressive darkness of a decaying, cathedral-like archive. The focal point: Elara's own face, now a duplicate and part of The Everyman, looks back at her with cold, hollow eyes that glow with a faint, synthetic blue light—empty, data-collecting lenses. Her real face captures the final moment of terror and realization, a single tear tracing her cheek. Dramatic chiaroscuro lighting, style of Guillermo del Toro and HR Giger, deep shadows, high contrast, volumetric light, intricate details, 8k, unreal engine render.**
+
+---
+
+### Breakdown of Key Elements (Why it works):
+
+*   **Subject & Action:** Clearly defines "Elara" and "The Everyman," specifying the key action ("absorbed," "embrace," "half-submerged").
+*   **Gothic Horror Style:** Words like "19th-century dress," "towering," "shifting entity," "tapestry of countless overlapping, anguished faces," "grasping hands," "waxen flesh," "decaying, cathedral-like archive," and "chiaroscuro" all directly evoke gothic horror.
+*   **The "Data" Element:** Crucial for the story. "Glitch and pixelate," "data-stream tendrils of cyan and silver light," "cataloging process," and "synthetic blue light" blend the supernatural horror with a technological one, creating a unique aesthetic.
+*   **The Critical Detail:** Explicitly states the climax: "*The focal point: Elara's own face... looks back at her with cold, hollow eyes that glow with a faint, synthetic blue light.*" This ensures the AI focuses on generating this terrifying mirror image.
+*   **Emotion:** Describes "terror and realization," and a "single tear" to guide the AI toward the intended emotional impact.
+*   **Lighting & Atmosphere:** "Dramatic chiaroscuro," "volumetric light," "oppressive darkness," and "ethereal... light" provide instructions for mood and depth.
+*   **Artistic References:** Naming "Guillermo del Toro" (for Gothic, monster-focused storytelling) and "HR Giger" (for biomechanical horror) gives the AI strong stylistic anchors.
+*   **Technical Quality:** Terms like "ultra-detailed, photorealistic," "intricate details," "8k," and "unreal engine render" push the AI towards a high-fidelity, cinematic output.
+
+This prompt is structured to give the AI a rich, layered description, maximizing the chance of generating an image that is both visually stunning and narratively precise.
+
+--- true_ending ---
+Of course. Here is a detailed, multi-part image prompt designed for AI image generation, capturing the specific cinematic and gothic horror elements of your scene.
+
+---
+
+### **Final Image Prompt (Copy and Paste Ready):**
+
+**Main Prompt:**
+`cinematic moment, a desperate woman (Elara) with determined expression lunging for a complex, antique brass control panel covered in dials, switches, and glowing vacuum tubes. She is overloading the system, causing a massive explosion of raw, volatile energy from the core. In the foreground, a terrifying holographic entity (The Everyman) is violently destabilizing, its form a glitching, digital nightmare of a hundred screaming, melting faces contorted in agony, features distorting and pixelating. The energy wave is clearing to reveal a cavernous, decaying gothic asylum hall with vaulted ceilings, revealing only drifting, luminous dust motes in the eerie silence. style of gothic horror, dramatic chiaroscuro lighting, high contrast between deep shadows and intense electric blue and white light, hyper-detailed, volumetric lighting, atmosphere of dread and finality.`
+
+**Style & Quality Modifiers:**
+`masterpiece, best quality, 8k, ultra-detailed, digital painting, concept art, sharp focus, epic composition, Unreal Engine 5, Octane render, art by HR Giger and Zdzisław Beksinski and Mike Mignola`
+
+**Negative Prompt:**
+`(avoid) modern, clean, happy, cartoon, anime, 3d render, soft focus, blurry, poorly drawn, bad anatomy, extra limbs, disfigured, deformed, body out of frame, watermark, signature, text, username, low quality, jpeg artifacts`
+
+**Parameters (Adjust for your AI):**
+`--ar 16:9 --style raw --chaos 20 --stylize 1000`
+
+---
+
+### **Breakdown of the Prompt (Why It Works):**
+
+*   **Subject & Action:** Clearly defines both characters ("Elara", "The Everyman") and the key action ("lunging", "overloading", "destabilizing").
+*   **The Everyman's Form:** Uses strong, evocative language for the AI to interpret: "glitching, digital nightmare", "a hundred screaming, melting faces", "pixelating". This is more effective than a simple "glitching".
+*   **The Setting:** "Cavernous, decaying gothic asylum hall" immediately sets the tone and architecture. "Vaulted ceilings" add to the scale and oppressive atmosphere.
+*   **Lighting & Color:** "Dramatic chiaroscuro" and "high contrast" are key for gothic horror. Specifying the light color ("electric blue and white") helps guide the AI's palette away from warm tones.
+*   **Mood & Atmosphere:** "Atmosphere of dread and finality", "eerie silence" – these phrases help steer the emotional feel of the generated image.
+*   **Artistic References:** Naming artists like **HR Giger** (biomechanical horror), **Zdzisław Beksinski** (dystopian surrealism), and **Mike Mignola** (stark shadows, graphic novel style) gives the AI a strong stylistic direction to emulate.
+*   **Technical Quality:** Terms like "8k, ultra-detailed, masterpiece" push the AI towards a higher-fidelity output.
+*   **Negative Prompt:** Crucial for preventing common AI errors and ensuring the style remains consistent (e.g., avoiding anime, modern aesthetics, or anatomical mistakes).
+*   **Parameters:** The `--ar 16:9` creates a cinematic widescreen aspect ratio. `--chaos` introduces a bit more variability which can be great for dynamic energy effects, and `--stylize` tells the AI to strongly adhere to the artistic style suggested.
+
