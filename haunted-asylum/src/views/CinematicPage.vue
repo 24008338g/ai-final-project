@@ -5,7 +5,7 @@
       
       <div class="media-container">
         <video 
-          src="/placeholder_video.mp4" 
+          :src="`/${currentScene.id}.mp4`" 
           controls 
           autoplay
           class="scene-video"

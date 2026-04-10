@@ -4,11 +4,12 @@
       <h1 class="ending-title">TRUE ENDING</h1>
       
       <div class="media-container">
-        <img 
-          src="/placeholder_image.jpg" 
-          alt="True ending" 
-          class="scene-image"
-        >
+        <video 
+          src="/true_ending.mp4" 
+          controls 
+          autoplay
+          class="scene-video"
+        ></video>
       </div>
       
       <div class="description">
@@ -80,6 +81,13 @@ export default {
 }
 
 .scene-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  border: 2px solid #1a5a5a;
+}
+
+.scene-video {
   width: 100%;
   height: 300px;
   object-fit: cover;

@@ -4,11 +4,12 @@
       <h1 class="gameover-title">GAME OVER</h1>
       
       <div class="media-container">
-        <img 
-          src="/placeholder_image.jpg" 
-          alt="Game over" 
-          class="scene-image"
-        >
+        <video 
+          :src="`/${currentScene.id}.mp4`" 
+          controls 
+          autoplay
+          class="scene-video"
+        ></video>
       </div>
       
       <div class="description">
@@ -84,6 +85,13 @@ export default {
 }
 
 .scene-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  border: 2px solid #5a1a1a;
+}
+
+.scene-video {
   width: 100%;
   height: 250px;
   object-fit: cover;

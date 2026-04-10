@@ -9,7 +9,7 @@
       
       <div class="media-container">
         <img 
-          src="/placeholder_image.jpg" 
+          :src="`/${currentScene.id}.png`" 
           alt="Decision point" 
           class="scene-image"
         >
