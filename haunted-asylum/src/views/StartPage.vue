@@ -1,19 +1,8 @@
 <template>
-  <div class="start-container">
-    <div class="title-section">
-      <h1>HAUNTED ASYLUM</h1>
-      <h2>The Shadowbrook Chronicles</h2>
-    </div>
-    
-    <div class="intro-section">
-      <p>Enter the decaying halls of Shadowbrook Asylum...</p>
-    </div>
-    
-    <button @click="startGame" class="start-button">BEGIN YOUR NIGHTMARE</button>
-    
-    <div class="footer">
-      <p>Your choices determine your fate...</p>
-    </div>
+  <div class="start-container" :style="{ backgroundImage: 'url(/title_screen.png)' }">
+    <button @click="startGame" class="start-button horror-glow">
+      BEGIN YOUR NIGHTMARE
+    </button>
   </div>
 </template>
 
@@ -40,57 +29,51 @@ export default {
 .start-container {
   min-height: 100vh;
   display: flex;
-  flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 2rem;
   text-align: center;
-}
-
-.title-section h1 {
-  font-size: 4rem;
-  color: #8a1a1a;
-  text-shadow: 0 0 10px rgba(255, 0, 0, 0.5);
-  margin-bottom: 1rem;
-  font-family: 'Cinzel Decorative', cursive;
-}
-
-.title-section h2 {
-  font-size: 1.5rem;
-  color: #c0c0c0;
-  letter-spacing: 0.3rem;
-}
-
-.intro-section {
-  margin: 2rem 0;
-}
-
-.intro-section p {
-  font-size: 1.2rem;
-  margin-bottom: 1.5rem;
-  color: #d0d0d0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
 .start-button {
-  background: linear-gradient(145deg, #2a0a0a, #1a0000);
-  color: #c0c0c0;
-  border: 2px solid #8a1a1a;
+  position: relative;
+  z-index: 10;
+}
+
+
+.start-button {
+  background: rgba(153, 27, 27, 0.8);
+  color: #ffffff;
+  border: 2px solid #dc2626;
   padding: 1rem 2rem;
   font-size: 1.2rem;
   cursor: pointer;
   transition: all 0.3s ease;
   text-transform: uppercase;
   letter-spacing: 0.1rem;
+  font-weight: bold;
+  position: relative;
+  overflow: hidden;
+}
+
+.start-button::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: #dc2626;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.start-button:hover::before {
+  opacity: 0.2;
 }
 
 .start-button:hover {
-  background: linear-gradient(145deg, #3a1a1a, #2a0a0a);
-  text-shadow: 0 0 10px rgba(255, 0, 0, 0.7);
-  box-shadow: 0 0 20px rgba(255, 0, 0, 0.4);
-}
-
-.footer {
-  margin-top: 2rem;
-  color: #666;
+  box-shadow: 0 0 25px rgba(255, 0, 0, 0.8);
 }
 </style>

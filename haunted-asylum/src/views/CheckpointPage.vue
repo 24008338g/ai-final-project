@@ -1,30 +1,22 @@
 <template>
-  <div class="checkpoint-container">
-    <div class="decision-content">
-      <h2 class="checkpoint-title">DECISION POINT</h2>
-      
-      <div class="situation">
-        <p>{{ currentScene.description }}</p>
-      </div>
-      
-      <div class="media-container">
-        <img 
-          :src="`/${currentScene.id}.png`" 
-          alt="Decision point" 
-          class="scene-image"
-        >
-      </div>
-      
-      <div class="choices">
-        <button 
-          v-for="(choice, index) in currentScene.choices" 
-          :key="index" 
-          @click="makeChoice(choice)"
-          class="choice-btn"
-        >
-          {{ choice.text }}
-        </button>
-      </div>
+  <div class="checkpoint-container" :style="{ backgroundImage: `url(/${currentScene.id}.png)` }">
+    <div class="situation">
+      <p class="font-serif text-lg md:text-xl leading-relaxed italic text-left pl-8 relative">
+        <span class="absolute left-0 top-0 bottom-0 w-1 bg-red-900"></span>
+        {{ currentScene.description }}
+      </p>
+    </div>
+    
+    <div class="choices">
+      <button 
+        v-for="(choice, index) in currentScene.choices" 
+        :key="index" 
+        @click="makeChoice(choice)"
+        class="choice-btn"
+      >
+        <div class="absolute left-0 top-0 bottom-0 w-1 bg-red-900 group-hover:bg-red-600 transition-colors"></div>
+        {{ choice.text }}
+      </button>
     </div>
   </div>
 </template>
@@ -62,66 +54,88 @@ export default {
 <style scoped>
 .checkpoint-container {
   min-height: 100vh;
-  padding: 2rem;
   display: flex;
-  justify-content: center;
-  align-items: center;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding-bottom: 2rem;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  position: relative;
 }
 
-.decision-content {
-  max-width: 800px;
-  background: rgba(20, 10, 20, 0.8);
-  padding: 2rem;
-  border: 1px solid #5a1a1a;
-  box-shadow: 0 0 30px rgba(139, 0, 0, 0.4);
-}
-
-.checkpoint-title {
-  color: #8a1a1a;
-  text-align: center;
-  margin-bottom: 2rem;
-  font-family: 'Cinzel Decorative', cursive;
-  text-transform: uppercase;
-  letter-spacing: 0.2rem;
+.checkpoint-container::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgba(0, 0, 0, 1) 0%, transparent 40%, rgba(0, 0, 0, 0.4) 100%);
 }
 
 .situation {
-  margin-bottom: 2rem;
-  line-height: 1.6;
-  font-size: 1.1rem;
+  position: absolute;
+  top: 2rem;
+  left: 2rem;
+  right: 2rem;
+  z-index: 10;
 }
 
-.media-container {
-  margin-bottom: 2rem;
-}
-
-.scene-image {
-  width: 100%;
-  height: 250px;
-  object-fit: cover;
-  border: 2px solid #5a1a1a;
+.situation p {
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(220, 38, 38, 0.5);
+  padding: 1rem;
+  border-radius: 4px;
+  color: #d1d5db;
+  font-style: italic;
+  position: relative;
 }
 
 .choices {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  max-width: 40rem;
+  margin: 0 auto;
+  padding: 0 1.5rem;
   display: flex;
   flex-direction: column;
   gap: 1rem;
 }
 
 .choice-btn {
-  background: linear-gradient(145deg, #2a0a0a, #1a0000);
-  color: #c0c0c0;
-  border: 1px solid #8a1a1a;
+  width: 100%;
   padding: 1rem;
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid rgba(220, 38, 38, 0.5);
+  color: #d1d5db;
+  text-align: left;
   cursor: pointer;
   transition: all 0.3s ease;
-  text-align: left;
+  font-family: 'Playfair Display', serif;
+  font-style: italic;
+  font-size: 1.125rem;
+  position: relative;
+  padding-left: 2rem;
+}
+
+.choice-btn::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 4px;
+  background: #7f1d1d;
+  transition: background-color 0.3s;
+}
+
+.choice-btn:hover::before {
+  background: #dc2626;
 }
 
 .choice-btn:hover {
-  background: linear-gradient(145deg, #3a1a1a, #2a0a0a);
-  text-shadow: 0 0 10px rgba(255, 0, 0, 0.7);
-  box-shadow: 0 0 15px rgba(255, 0, 0, 0.4);
-  transform: translateY(-2px);
+  background: rgba(220, 38, 38, 0.1);
+  color: #ffffff;
+  border-color: #dc2626;
+  transform: translateX(10px);
 }
 </style>
