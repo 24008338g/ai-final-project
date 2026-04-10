@@ -3,7 +3,7 @@ Of course. Here is a detailed, multi-part image prompt designed for AI image gen
 ### **Final, Consolidated Prompt (Copy and Paste Version):**
 
 **Prompt:**
-`cinematic still, gothic horror, a woman (Elara) trapped in a narrow, claustrophobic industrial ventilation shaft, the cold brushed metal walls are contracting and crushing her. In the darkness ahead, a terrifying face (The Everyman) materializes from glitching, shifting data patterns and holographic static, its expression is serene and omniscient. The face is illuminated by an eerie, sickly green and cyan bioluminescent glow that casts dramatic shadows. Extreme close-up, Dutch angle, intense claustrophobic composition. Hyper-detailed, intricate gothic machinery, rivets, pipes. Style of Guillermo del Toro, HR Giger, and Dante's Inferno (2007). Chiaroscuro lighting, volumetric fog, film grain, hyper-realistic, 8k. --ar 2:3 --style raw --v 6.0`
+`cinematic still, gothic horror, a woman (Elara) trapped in a narrow, claustrophobic industrial ventilation shaft, the cold brushed metal walls are contracting and crushing her. In the darkness ahead, a terrifying face (The Faceless One) materializes from glitching, shifting data patterns and holographic static, its expression is serene and omniscient. The face is illuminated by an eerie, sickly green and cyan bioluminescent glow that casts dramatic shadows. Extreme close-up, Dutch angle, intense claustrophobic composition. Hyper-detailed, intricate gothic machinery, rivets, pipes. Style of Guillermo del Toro, HR Giger, and Dante's Inferno (2007). Chiaroscuro lighting, volumetric fog, film grain, hyper-realistic, 8k. --ar 2:3 --style raw --v 6.0`
 
 ---
 
@@ -15,7 +15,7 @@ This prompt is structured to give the AI the strongest possible instructions, mo
 *   **"cinematic still, gothic horror"**: Immediately sets the genre and format.
 *   **"a woman (Elara) trapped in a narrow, claustrophobic industrial ventilation shaft"**: Clearly defines the main subject and her predicament. "Claustrophobic" is a powerful keyword for mood.
 *   **"the cold brushed metal walls are contracting and crushing her"**: Describes the critical action and the environment's texture.
-*   **"In the darkness ahead, a terrifying face (The Everyman) materializes from glitching, shifting data patterns and holographic static"**: A precise description of the antagonist, combining organic terror ("face") with technological horror ("glitching data," "static").
+*   **"In the darkness ahead, a terrifying face (The Faceless One) materializes from glitching, shifting data patterns and holographic static"**: A precise description of the antagonist, combining organic terror ("face") with technological horror ("glitching data," "static").
 *   **"its expression is serene and omniscient"**: Captures the chilling whisper from your scene—calm yet all-knowing.
 
 **2. Lighting & Color:**

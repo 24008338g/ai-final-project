@@ -5,7 +5,7 @@ Of course. Here is a detailed, multi-part image prompt designed for AI image gen
 ### **Final Image Prompt (Copy and Paste Ready):**
 
 **Main Prompt:**
-`cinematic moment, a desperate woman (Elara) with determined expression lunging for a complex, antique brass control panel covered in dials, switches, and glowing vacuum tubes. She is overloading the system, causing a massive explosion of raw, volatile energy from the core. In the foreground, a terrifying holographic entity (The Everyman) is violently destabilizing, its form a glitching, digital nightmare of a hundred screaming, melting faces contorted in agony, features distorting and pixelating. The energy wave is clearing to reveal a cavernous, decaying gothic asylum hall with vaulted ceilings, revealing only drifting, luminous dust motes in the eerie silence. style of gothic horror, dramatic chiaroscuro lighting, high contrast between deep shadows and intense electric blue and white light, hyper-detailed, volumetric lighting, atmosphere of dread and finality.`
+`cinematic moment, a desperate woman (Elara) with determined expression lunging for a complex, antique brass control panel covered in dials, switches, and glowing vacuum tubes. She is overloading the system, causing a massive explosion of raw, volatile energy from the core. In the foreground, a terrifying holographic entity (The Faceless One) is violently destabilizing, its form a glitching, digital nightmare of a hundred screaming, melting faces contorted in agony, features distorting and pixelating. The energy wave is clearing to reveal a cavernous, decaying gothic asylum hall with vaulted ceilings, revealing only drifting, luminous dust motes in the eerie silence. style of gothic horror, dramatic chiaroscuro lighting, high contrast between deep shadows and intense electric blue and white light, hyper-detailed, volumetric lighting, atmosphere of dread and finality.`
 
 **Style & Quality Modifiers:**
 `masterpiece, best quality, 8k, ultra-detailed, digital painting, concept art, sharp focus, epic composition, Unreal Engine 5, Octane render, art by HR Giger and Zdzisław Beksinski and Mike Mignola`
@@ -20,8 +20,8 @@ Of course. Here is a detailed, multi-part image prompt designed for AI image gen
 
 ### **Breakdown of the Prompt (Why It Works):**
 
-*   **Subject & Action:** Clearly defines both characters ("Elara", "The Everyman") and the key action ("lunging", "overloading", "destabilizing").
-*   **The Everyman's Form:** Uses strong, evocative language for the AI to interpret: "glitching, digital nightmare", "a hundred screaming, melting faces", "pixelating". This is more effective than a simple "glitching".
+*   **Subject & Action:** Clearly defines both characters ("Elara", "The Faceless One") and the key action ("lunging", "overloading", "destabilizing").
+*   **The Faceless One's Form:** Uses strong, evocative language for the AI to interpret: "glitching, digital nightmare", "a hundred screaming, melting faces", "pixelating". This is more effective than a simple "glitching".
 *   **The Setting:** "Cavernous, decaying gothic asylum hall" immediately sets the tone and architecture. "Vaulted ceilings" add to the scale and oppressive atmosphere.
 *   **Lighting & Color:** "Dramatic chiaroscuro" and "high contrast" are key for gothic horror. Specifying the light color ("electric blue and white") helps guide the AI's palette away from warm tones.
 *   **Mood & Atmosphere:** "Atmosphere of dread and finality", "eerie silence" – these phrases help steer the emotional feel of the generated image.
